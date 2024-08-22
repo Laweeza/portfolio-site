@@ -6,7 +6,7 @@ dateEnd: '09/01/2022'
 ---
 
 <ul>
-<li>Implemented product branding by creating</li>
-<li>Co-built resuable component library </li>
-<li>Drove onboarding and registration ofor users on app</li>
+<li>Led pharmacy operations optimization by designing and implementing VBA-based inventory management systems, reducing waste and improving efficiency.</li>
+<li>Mentored and trained new staff members, fostering a collaborative and skilled team environment.</li>
+<li>Collaborated with multidisciplinary teams to enhance patient care, using data-driven insights to optimize treatment plans.</li>
 </ul>
