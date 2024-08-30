@@ -1,12 +1,12 @@
 ---
-title: 'Under Construction'
-description: 'Portfolio and blog build with astro.'
+title: 'Sedeco Questions and Answers Service'
+description: 'Refactored monolithic architecture into microservices. Client had an e-commerce website with a legacy API and needed to have the backend revamped to scale for production level web traffic.'
 date: 'Mar 18 2024'
-demoURL: 'https://astro-sphere-demo.vercel.app'
-repoURL: 'https://github.com/markhorn-dev/astro-sphere'
+# demoURL: 'https://astro-sphere-demo.vercel.app'
+repoURL: 'https://github.com/SDC-Sedeco/QA-Service'
 ---
 
-![Astro Sphere Lighthouse Score](/astro-sphere.jpg)
+<!-- ![Astro Sphere Lighthouse Score](/astro-sphere.jpg)
 
 Astro Sphere is a static, minimalist, lightweight, lightning fast portfolio and blog theme based on my personal website.
 
@@ -76,4 +76,4 @@ Replace npm with your package manager of choice. `npm`, `pnpm`, `yarn`, `bun`, e
 
 ## 🏛️ License
 
-MIT
+MIT -->
