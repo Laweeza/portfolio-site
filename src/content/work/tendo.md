@@ -6,7 +6,8 @@ dateEnd: '05/01/2024'
 ---
 
 <ul>
-<li>Developed and integrated product branding to enhance the app's visual identity.</li>
-<li>Co-created a reusable component library to streamline development and ensure consistency across the platform.</li>
-<li>Drove the design and implementation of the user onboarding and registration flow, improving user engagement and retention.</li>
+<li>Optimized the patient onboarding flow with Redux and React.</li>
+<li>Integrated RESTful APIs and GraphQL for enhanced data access, reducing administrative workload by a 20%.</li>
+<li>Developed and maintained a component library in React, standardizing UI elements across the application, reducing front-end development time by 25%</li>
+<li>Reduced production bugs by 35% through testing with Jest, WebdriverIO, and React Testing Library.</li>
 </ul>
