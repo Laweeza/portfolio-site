@@ -2,8 +2,8 @@
 title: 'Patient Questionnaire Web Application'
 description: 'MVP for a patient questionnaire web app'
 date: 'Mar 18 2024'
-demoURL: 'https://teachback-x3.vercel.app'
-repoURL: 'https://gitlab.com/teachback-tech/frontend'
+demoURL: 'https://patient-questionnaire.vercel.app'
+repoURL: 'https://github.com/Laweeza/PatientQuestionnaire'
 images: '/assets/screenshots/TeachBack.png'
 ---
 
